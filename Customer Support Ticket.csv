@@ -1,0 +1,91 @@
+ticket_id,ticket_text,department
+1,Cannot login to my account after password reset,technical
+2,The website is loading very slowly on my browser,technical
+3,The app crashes whenever I try to upload photos,technical
+4,Videos are not playing properly on my device,technical
+5,The checkout process gave me an error,technical
+6,The product images are not loading,technical
+7,Cannot connect my account to social media,technical
+8,The mobile app is using too much battery,technical
+9,Getting an error message during checkout,technical
+10,The website is down and I cannot access my account,technical
+11,App freezes when I try to submit my order,technical
+12,Cannot download my purchase receipt,technical
+13,The search function is not working properly,technical
+14,Links in the email are broken,technical
+15,The mobile app keeps logging me out,technical
+16,Getting 404 errors when clicking on product links,technical
+17,Password reset email is not being delivered,technical
+18,Video quality is poor on my high-speed connection,technical
+19,The website doesn't display correctly on my phone,technical
+20,Cannot upload my profile picture,technical
+21,The app is not compatible with my new phone,technical
+22,Getting timeout errors when trying to pay,technical
+23,The captcha verification keeps failing,technical
+24,The website loads blank pages sometimes,technical
+25,Two-factor authentication is not working,technical
+26,My account is showing incorrect login status,technical
+27,The download link expired too quickly,technical
+28,Website layout is broken in my browser,technical
+29,Cannot access the help documentation,technical
+30,The checkout page keeps refreshing,technical
+31,How do I update my shipping address for my order?,account
+32,Would like to change my subscription plan,account
+33,Need help finding the return policy,account
+34,My account shows incorrect order history,account
+35,Need to update my personal information,account
+36,How do I deactivate my account temporarily?,account
+37,Want to change my username,account
+38,How can I merge two accounts?,account
+39,Need to add another user to my account,account
+40,How do I change my email preferences?,account
+41,Would like to opt out of marketing communications,account
+42,Need to change my security questions,account
+43,How do I view my previous orders?,account
+44,Need help setting up multi-user access,account
+45,How can I download all my account data?,account
+46,Would like to change my notification settings,account
+47,Need help with account verification,account
+48,How do I set up a business account?,account
+49,Can I have multiple shipping addresses?,account
+50,How to change my default payment method,account
+51,Need to update my email address,account
+52,How do I access my saved items?,account
+53,Where can I find my loyalty points?,account
+54,How do I upgrade my membership level?,account
+55,Need to update my newsletter preferences,account
+56,How can I change my account password?,account
+57,Would like to enable advanced security features,account
+58,How do I link my loyalty account to my online profile?,account
+59,Need to update my communication preferences,account
+60,Cannot find where to change my account settings,account
+61,My payment was charged twice for one order,billing
+62,Need to update my credit card information,billing
+63,I was charged for a service I didn't order,billing
+64,How do I request a refund for my purchase?,billing
+65,My discount code is not working,billing
+66,Need a copy of my last invoice,billing
+67,How long does the refund process take?,billing
+68,My subscription is still charging after cancellation,billing
+69,The price shown was different from what I was charged,billing
+70,Need to change my billing cycle date,billing
+71,How do I add a new payment method?,billing
+72,My bank is showing a pending charge but order failed,billing
+73,Need to update my billing address,billing
+74,How do I dispute a charge on my account?,billing
+75,My promotional pricing expired too soon,billing
+76,The system wouldn't accept my credit card,billing
+77,Need explanation for the extra fees on my bill,billing
+78,My payment is showing but my account isn't updated,billing
+79,How do I switch from monthly to annual billing?,billing
+80,Need help understanding the charges on my statement,billing
+81,My account shows outstanding balance after payment,billing
+82,How do I get a receipt for tax purposes?,billing
+83,The system charged me in wrong currency,billing
+84,My payment method was declined but funds were taken,billing
+85,Need to set up automatic billing,billing
+86,How do I cancel my subscription and get a refund?,billing
+87,Was charged renewal fee without notification,billing
+88,Need to split my payment between two cards,billing
+89,My discount wasn't applied to my last bill,billing
+90,How do I update my VAT/tax information?,billing

@@ -1,0 +1,19 @@
+#PROBLEM
+Create a script to calculate the total cost of the pizza delivery with the users inputs.
+
+#DEFINE INPUTS
+CREATE variables to STORE the input values for pizza_input, topping_input, and miles_input
+
+#DEFINE CONSTANTS
+CREATE variables to STORE available_pizza_type, error_message, delivery_fee, and base_cost
+
+#DEFINE CONDITIONALS
+CREATE an if statement to check the input of pizza_input and provide the base_cost
+CREATE an if statement to check the input of topping_input and provide the topping_cost
+CREATE an if statement to calcoluate the input of miiles_input and calculate the delivery cost
+
+#PROVIDE CALCULATION
+Add all the variables up to provide total cost.
+
+#FINAL OUTPUT
+CREATE a last conditional to provide an error if there are any wrong inputs or RETURN a string to provide the type of pizza and total cost.

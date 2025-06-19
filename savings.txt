@@ -1,0 +1,24 @@
+BEGIN SavingsGoalSystem
+#PROBLEM
+Create a script to maintain the following functionalities:
+    - Savings Goal
+    - Savings Progress
+    - Savings Goal Status
+    - Savings Goal Notification
+
+#DEFINE INPUTS
+- User ID
+- Target Amount
+- Target Date
+- Savings Goal
+- Amount Saved
+
+CREATE variables to STORE the values of the input prompt. The user will enter the following values: todays_date, user_id, target_amount, target_date, and amount_saved
+
+#DEFINE CONDITIONALS
+CREATE an if statement to check if the amount_saved value is equal to or greater than the target_amount AND if the target_date is less than todays_date
+   
+   PRINT congrats you met your savings goal on time! 
+ELSE IF target_amount > amount_saved AND target_date < todays_date
+    PRINT you can still do it! Keep saving. 
+ELSE IF target_date > todays_date AND amount_saved < savings_goal
